@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'promotion_whole_order', :git => 'git://github.com/huyngvu/promotion_whole_order.git'
+gem 'promotion_whole_order', :git => 'https://github.com/huyngvu/promotion_whole_order.git'
 ```
 
 Now bundle up with:
