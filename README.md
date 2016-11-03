@@ -1,4 +1,4 @@
-# PromotionWholeOrder
+# Promotion Whole Order
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/promotion_whole_order`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -9,16 +9,12 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'promotion_whole_order'
+gem 'promotion_whole_order', :git => 'git://github.com/huyngvu/promotion_whole_order.git'
 ```
 
-And then execute:
+Now bundle up with:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install promotion_whole_order
+    $ bundle install
 
 ## Usage
 
