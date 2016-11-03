@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Huy Nguyen"]
   spec.email         = ["huyngvu@gmail.com"]
 
-  spec.summary       = %q{Promotion for Order.}
-  spec.description   = %q{This promotion will applied percentage for WHOLE ORDER.}
+  spec.summary       = %q{Spree Promotion for Order.}
+  spec.description   = %q{This promotion will applied percentage for WHOLE ORDER in Spree.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
